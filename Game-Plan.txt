@@ -1,0 +1,9 @@
+1. Get the game running as a simple locally hosted thingie. Test from other machines. Use Python Formated strings potentially (or just re-use ConsoleRacer)
+    -Refactor ConsoleRace -> Split into Move Forward, Draw 
+
+    
+2. Create a restart button
+3. Possibly: allow multiple sessions (cookies?)
+4. Get a nameserver running and create a local DNS name, test this
+5. Certificates to do HTTPS
+6. Do the same in AWS with Local Hosted Zone
